@@ -24,9 +24,9 @@ FUTURE WORK:
 2. We could make more levels.
 3. We could improve the physics of the game; i.e., we could make it so the angle of the ball changes based on what direction
    the paddle is moving, etc.
-   
-PROJECT BUILD OPTIONS:
-No special options or build procedures were needed to synthesize the circuit.
+
+ORIGNAL BUILD:
+The .ucf file provided and the following specifications are for the Spartan 3E board
 
 PROJECT SIZE: Summarize your project FPGA utilization by including the following:
 Total Lines of VHDL code:
@@ -34,3 +34,6 @@ Number of slices used: 345 slices out of 4656 7%
 Minimum Clock Period: 12.39 ns
 I/O: 2 inputs, 17 outputs, 1 inout
 Line of Code: 1061 lines
+
+For more information:
+http://markcrossen.com/projects/break-out/
